@@ -15,10 +15,7 @@ This tool helps security and compliance professionals quickly assess:
 - Whether contractual protections exist for third-party AI providers
 - Other potential concerns in vendor documentation
 
-<video width="640" height="360" controls>
-  <source src="v01_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Day 0](https://img.youtube.com/vi/aNy5X3U1zpo/0.jpg)](https://youtu.be/aNy5X3U1zpo)
 
 
 ## Current Status
