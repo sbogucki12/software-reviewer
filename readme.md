@@ -15,7 +15,11 @@ This tool helps security and compliance professionals quickly assess:
 - Whether contractual protections exist for third-party AI providers
 - Other potential concerns in vendor documentation
 
-https://github.com/sbogucki12/software-reviewer/blob/main/v01_vid.mp4?raw=true
+<video width="640" height="360" controls>
+  <source src="v01_vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Current Status
 
