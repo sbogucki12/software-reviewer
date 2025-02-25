@@ -136,10 +136,6 @@ The tool searches for and analyzes many document types, including:
 - Admin guides
 - Enterprise controls
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-[Specify your license here]
