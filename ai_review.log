@@ -963,3 +963,67 @@
 2025-02-25 14:18:08,441 - ai_analysis - INFO -   ethical: 14 items
 2025-02-25 14:18:08,441 - ai_analysis - INFO - Pattern locations for debugging:
 2025-02-25 14:18:08,441 - ai_analysis - INFO -   opt_out: [('acceptable_use', 11089, 'disable'), ('acceptable_use', 45826, 'turn off'), ('acceptable_use', 52356, 'opt-out')]
+2025-02-25 15:23:17,238 - ai_review - INFO - Extracting text from https://privacy.microsoft.com/en-us
+2025-02-25 15:23:17,830 - ai_review - INFO - Extracted 4616 characters from https://privacy.microsoft.com/en-us
+2025-02-25 15:23:17,831 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/
+2025-02-25 15:23:18,236 - ai_review - INFO - Extracted 2602 characters from https://www.microsoft.com/licensing/terms/
+2025-02-25 15:23:18,238 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms
+2025-02-25 15:23:19,030 - ai_review - INFO - Extracted 37528 characters from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms
+2025-02-25 15:23:19,031 - ai_review - INFO - Extracting text from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:23:19,902 - ai_review - INFO - Extracted 6660 characters from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:23:19,903 - ai_review - INFO - Extracting text from https://www.microsoft.com/ai/responsible-ai-resources
+2025-02-25 15:23:20,330 - ai_review - INFO - Extracted 6623 characters from https://www.microsoft.com/ai/responsible-ai-resources
+2025-02-25 15:23:20,333 - ai_review - INFO - Extracting text from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:23:21,192 - ai_review - INFO - Extracted 6660 characters from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:23:21,193 - ai_review - INFO - Extracting text from https://www.microsoft.com/security
+2025-02-25 15:23:22,140 - ai_review - INFO - Extracted 7919 characters from https://www.microsoft.com/security
+2025-02-25 15:23:22,141 - ai_review - INFO - Extracting text from https://www.microsoft.com/en-us/trust-center/privacy/gdpr-overview
+2025-02-25 15:23:22,926 - ai_review - INFO - Extracted 2249 characters from https://www.microsoft.com/en-us/trust-center/privacy/gdpr-overview
+2025-02-25 15:23:22,927 - ai_review - INFO - Extracting text from https://www.microsoft.com/en-us/trust-center/privacy/ccpa
+2025-02-25 15:23:23,636 - ai_review - INFO - Extracted 175 characters from https://www.microsoft.com/en-us/trust-center/privacy/ccpa
+2025-02-25 15:23:23,637 - ai_review - INFO - Extracting text from https://www.microsoft.com/servicesagreement
+2025-02-25 15:23:24,108 - ai_review - INFO - Extracted 111180 characters from https://www.microsoft.com/servicesagreement
+2025-02-25 15:23:24,109 - ai_review - INFO - Extracting text from https://privacy.microsoft.com/en-us/data-retention
+2025-02-25 15:23:24,617 - ai_review - ERROR - Error extracting text from https://privacy.microsoft.com/en-us/data-retention: 404 Client Error: Not Found for url: https://www.microsoft.com/en-us/privacy/data-retention
+2025-02-25 15:23:24,618 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/all
+2025-02-25 15:23:25,501 - ai_review - INFO - Extracted 37528 characters from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/all
+2025-02-25 15:23:25,501 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/product/APITerms
+2025-02-25 15:23:25,968 - ai_review - INFO - Extracted 100 characters from https://www.microsoft.com/licensing/terms/product/APITerms
+2025-02-25 15:23:25,969 - ai_review - INFO - Extracting text from https://learn.microsoft.com/legal/developer-policies
+2025-02-25 15:23:26,446 - ai_review - ERROR - Error extracting text from https://learn.microsoft.com/legal/developer-policies: 404 Client Error: Not Found for url: https://learn.microsoft.com/en-us/legal/developer-policies
+2025-02-25 15:23:26,447 - ai_review - INFO - Extracting text from https://learn.microsoft.com/microsoft-365/admin/admin-overview/admin-center-overview
+2025-02-25 15:23:27,118 - ai_review - INFO - Extracted 13008 characters from https://learn.microsoft.com/microsoft-365/admin/admin-overview/admin-center-overview
+2025-02-25 15:23:27,120 - ai_review - INFO - Extracting text from https://learn.microsoft.com/microsoft-365/admin/add-users/about-admin-roles
+2025-02-25 15:23:27,637 - ai_review - INFO - Extracted 17432 characters from https://learn.microsoft.com/microsoft-365/admin/add-users/about-admin-roles
+2025-02-25 15:24:50,092 - ai_review - INFO - Extracting text from https://privacy.microsoft.com/en-us
+2025-02-25 15:24:51,808 - ai_review - INFO - Extracted 4616 characters from https://privacy.microsoft.com/en-us
+2025-02-25 15:24:51,809 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/
+2025-02-25 15:24:52,448 - ai_review - INFO - Extracted 2602 characters from https://www.microsoft.com/licensing/terms/
+2025-02-25 15:24:52,449 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms
+2025-02-25 15:24:53,226 - ai_review - INFO - Extracted 37528 characters from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms
+2025-02-25 15:24:53,227 - ai_review - INFO - Extracting text from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:24:55,873 - ai_review - INFO - Extracted 6660 characters from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:24:55,874 - ai_review - INFO - Extracting text from https://www.microsoft.com/ai/responsible-ai-resources
+2025-02-25 15:24:59,895 - ai_review - INFO - Extracted 6623 characters from https://www.microsoft.com/ai/responsible-ai-resources
+2025-02-25 15:24:59,896 - ai_review - INFO - Extracting text from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:25:03,110 - ai_review - INFO - Extracted 6660 characters from https://www.microsoft.com/ai/responsible-ai
+2025-02-25 15:25:03,111 - ai_review - INFO - Extracting text from https://www.microsoft.com/security
+2025-02-25 15:25:05,136 - ai_review - INFO - Extracted 7919 characters from https://www.microsoft.com/security
+2025-02-25 15:25:05,137 - ai_review - INFO - Extracting text from https://www.microsoft.com/en-us/trust-center/privacy/gdpr-overview
+2025-02-25 15:25:06,510 - ai_review - INFO - Extracted 2249 characters from https://www.microsoft.com/en-us/trust-center/privacy/gdpr-overview
+2025-02-25 15:25:06,511 - ai_review - INFO - Extracting text from https://www.microsoft.com/en-us/trust-center/privacy/ccpa
+2025-02-25 15:25:07,411 - ai_review - INFO - Extracted 175 characters from https://www.microsoft.com/en-us/trust-center/privacy/ccpa
+2025-02-25 15:25:07,412 - ai_review - INFO - Extracting text from https://www.microsoft.com/servicesagreement
+2025-02-25 15:25:08,758 - ai_review - INFO - Extracted 111180 characters from https://www.microsoft.com/servicesagreement
+2025-02-25 15:25:08,759 - ai_review - INFO - Extracting text from https://privacy.microsoft.com/en-us/data-retention
+2025-02-25 15:25:09,443 - ai_review - ERROR - Error extracting text from https://privacy.microsoft.com/en-us/data-retention: 404 Client Error: Not Found for url: https://www.microsoft.com/en-us/privacy/data-retention
+2025-02-25 15:25:09,444 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/all
+2025-02-25 15:25:10,030 - ai_review - INFO - Extracted 37528 characters from https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/all
+2025-02-25 15:25:10,031 - ai_review - INFO - Extracting text from https://www.microsoft.com/licensing/terms/product/APITerms
+2025-02-25 15:25:10,713 - ai_review - INFO - Extracted 100 characters from https://www.microsoft.com/licensing/terms/product/APITerms
+2025-02-25 15:25:10,714 - ai_review - INFO - Extracting text from https://learn.microsoft.com/legal/developer-policies
+2025-02-25 15:25:11,210 - ai_review - ERROR - Error extracting text from https://learn.microsoft.com/legal/developer-policies: 404 Client Error: Not Found for url: https://learn.microsoft.com/en-us/legal/developer-policies
+2025-02-25 15:25:11,210 - ai_review - INFO - Extracting text from https://learn.microsoft.com/microsoft-365/admin/admin-overview/admin-center-overview
+2025-02-25 15:25:11,618 - ai_review - INFO - Extracted 13008 characters from https://learn.microsoft.com/microsoft-365/admin/admin-overview/admin-center-overview
+2025-02-25 15:25:11,619 - ai_review - INFO - Extracting text from https://learn.microsoft.com/microsoft-365/admin/add-users/about-admin-roles
+2025-02-25 15:25:12,254 - ai_review - INFO - Extracted 17432 characters from https://learn.microsoft.com/microsoft-365/admin/add-users/about-admin-roles

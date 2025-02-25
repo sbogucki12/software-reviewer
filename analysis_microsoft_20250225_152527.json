@@ -1,0 +1,59 @@
+{
+  "vendor_url": "https://www.microsoft.com",
+  "doc_urls": {
+    "privacy_policy": "https://privacy.microsoft.com/en-us",
+    "terms_of_service": "https://www.microsoft.com/licensing/terms/",
+    "data_processing": "https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms",
+    "ai_trust": "https://www.microsoft.com/ai/responsible-ai",
+    "ai_ethics": "https://www.microsoft.com/ai/responsible-ai-resources",
+    "responsible_ai": "https://www.microsoft.com/ai/responsible-ai",
+    "data_security": "https://www.microsoft.com/security",
+    "gdpr_compliance": "https://www.microsoft.com/en-us/trust-center/privacy/gdpr-overview",
+    "ccpa_compliance": "https://www.microsoft.com/en-us/trust-center/privacy/ccpa",
+    "acceptable_use": "https://www.microsoft.com/servicesagreement",
+    "data_retention": "https://privacy.microsoft.com/en-us/data-retention",
+    "subprocessors": "https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/all",
+    "api_terms": "https://www.microsoft.com/licensing/terms/product/APITerms",
+    "developer_policy": "https://learn.microsoft.com/legal/developer-policies",
+    "admin_guide": "https://learn.microsoft.com/microsoft-365/admin/admin-overview/admin-center-overview",
+    "enterprise_controls": "https://learn.microsoft.com/microsoft-365/admin/add-users/about-admin-roles"
+  },
+  "analysis": {
+    "opt_out_available": true,
+    "enterprise_opt_out": false,
+    "native_ai": false,
+    "third_party_providers": [
+      "AWS",
+      "OpenAI",
+      "Azure",
+      "Google"
+    ],
+    "data_retention": true,
+    "model_training": true,
+    "model_sharing": false,
+    "contractual_protections": true,
+    "concerns": [
+      "Potential concern: eir obligations under the General Data Protection Regulation (GDPR). Read more Protecting the data of our comm",
+      "Potential concern: ery, and Microsoft Purview Audit, Microsoft Priva Privacy Risk Management, and Microsoft Priva Subject Rights Re",
+      "Potential concern:  and approved with management oversight. Auditing Compliance: Microsoft's commitments in the Auditing Complian",
+      "Potential concern: amics 365 Finance in Denmark Bookkeeping Laws and Regulations These terms apply only to Customers with an ente",
+      "Potential concern: c encryption library. Learn more Presidio Protect sensitive data with customizable, context-aware de-identificatio",
+      "Potential concern: Learn more Microsoft Purview Safeguard and manage compliance of data in AI tools and systems. Learn more AI Im",
+      "Potential concern: sson, Security CTO, SEB Group 30\u201350% less risk of unauthorized access Products Microsoft Entra ID Microsoft Defender fo",
+      "Potential concern: orm. Learn more Enhance your data security Secure sensitive data across your digital landscape with multilayered p",
+      "Potential concern: f unified information protection, governance, and compliance products. Learn more Microsoft Priva Respect cust",
+      "Potential concern: sments (DPIAs), Data Subject Requests (DSRs), and data breach notification is provided to incorporate into your",
+      "Potential concern:  to our customers plus our own commitment to GDPR compliance. Learn more Microsoft 365 Compliance Center The M",
+      "Potential concern:  to learn about essential General Data Protection Regulation (GDPR) topics including how Microsoft 365 and clo",
+      "Potential concern: twork. You may not use the service to try to gain unauthorized access to any service, data, account, or network by any ",
+      "Potential concern: er be accessible by you. You agree to process any personal information of your Linked Account users in accordance with a",
+      "Potential concern: bers to a Linked Account, you are responsible for compliance with any requirements related to the residency or",
+      "Potential concern: gations under applicable local or national rules, regulations or law to offer access to emergency services, su",
+      "Potential concern: ery, and Microsoft Purview Audit, Microsoft Priva Privacy Risk Management, and Microsoft Priva Subject Rights Re",
+      "Potential concern:  and approved with management oversight. Auditing Compliance: Microsoft's commitments in the Auditing Complian",
+      "Potential concern: amics 365 Finance in Denmark Bookkeeping Laws and Regulations These terms apply only to Customers with an ente",
+      "Potential concern: de SharePoint, Teams & Skype, Exchange, Security, Compliance, Device Management, and Microsoft Entra ID. You c",
+      "Potential concern: for assigning roles Because admins have access to sensitive data and files, we recommend that you follow these gui"
+    ]
+  }
+}

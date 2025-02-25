@@ -15,6 +15,8 @@ This tool helps security and compliance professionals quickly assess:
 - Whether contractual protections exist for third-party AI providers
 - Other potential concerns in vendor documentation
 
+https://github.com/sbogucki12/software-reviewer/blob/main/v01_vid.mp4?raw=true
+
 ## Current Status
 
 This tool is currently under development. Key features implemented:
