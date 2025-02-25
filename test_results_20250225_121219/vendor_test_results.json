@@ -1,0 +1,240 @@
+{
+  "Microsoft": {
+    "url": "https://www.microsoft.com",
+    "doc_urls": {
+      "privacy_policy": "https://privacy.microsoft.com/en-us",
+      "ai_trust": "https://www.microsoft.com/ai",
+      "terms_of_service": "https://go.microsoft.com/fwlink/?linkid=206977",
+      "data_processing": "https://www.microsoft.com/data-processing"
+    },
+    "analysis": {
+      "opt_out_available": true,
+      "enterprise_opt_out": false,
+      "native_ai": true,
+      "third_party_providers": [
+        "OpenAI",
+        "Azure"
+      ],
+      "data_retention": true,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": true,
+      "concerns": [
+        "Potential concern (GDPR): bout protecting your privacy at home and at work. GDPR and generative AI - a guide for the public sector",
+        "Potential concern (unauthorized access): ment of any Services. You may not attempt to gain unauthorized access to any Services, other accounts, computer systems",
+        "Potential concern (compliance): y claims regarding your use of the AI services in compliance with applicable laws (including, but not limited",
+        "Potential concern (regulation): e-mail addresses. Violate any applicable laws or regulations. Create a false identity for the purpose of misl"
+      ],
+      "_evidence": {
+        "opt_out": [
+          "[terms_of_service] these terms, conditions, and notices. You may not use the Services in any manner that could damage, disable, overburden, or impair any Microsoft server, or the network(s) connected to any Microsoft server, o"
+        ],
+        "enterprise": [],
+        "ai_native": [
+          "[ai_trust] ife Copilot Enhance Customize Copilot for your unique needs Copilot Studio Build Create and deploy your own AI solutions Azure AI Foundry Elevate Work smarter with the fastest, most intelligent Windows AI PC",
+          "[terms_of_service] the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party. Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots",
+          "[terms_of_service] any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file th"
+        ],
+        "third_party": [
+          "[privacy_policy] sector organizations as they consider generative AI services such as Copilot for Microsoft 365 and Azure OpenAI Service. Discover how public sector organizations can harness the power of generative AI whi",
+          "[privacy_policy] r organizations as they consider generative AI services such as Copilot for Microsoft 365 and Azure OpenAI Service. Discover how public sector organizations can harness the power of generative AI while comp",
+          "[ai_trust] ustomize Copilot for your unique needs Copilot Studio Build Create and deploy your own AI solutions Azure AI Foundry Elevate Work smarter with the fastest, most intelligent Windows AI PCs ever Copilot+ PCs",
+          "[ai_trust] an ever Accelerate app development and achieve faster business results with the open and integrated Azure AI app platform. Read the blog Explore the newest Microsoft 365 Copilot capabilities Drive AI trans",
+          "[ai_trust] emands, powered by AI.\u201d Kunal Mukerjee: VP, Technology Strategy and Architecture, Docusign Products Azure Azure OpenAI Service Azure SQL Database Read the story \u201cI used to spend hours gathering data and re",
+          "[ai_trust] , powered by AI.\u201d Kunal Mukerjee: VP, Technology Strategy and Architecture, Docusign Products Azure Azure OpenAI Service Azure SQL Database Read the story \u201cI used to spend hours gathering data and reading",
+          "[ai_trust] red by AI.\u201d Kunal Mukerjee: VP, Technology Strategy and Architecture, Docusign Products Azure Azure OpenAI Service Azure SQL Database Read the story \u201cI used to spend hours gathering data and reading reports",
+          "[ai_trust] al Mukerjee: VP, Technology Strategy and Architecture, Docusign Products Azure Azure OpenAI Service Azure SQL Database Read the story \u201cI used to spend hours gathering data and reading reports. Now, Copilot",
+          "[ai_trust] he story \u201cFor every business requirement, we were able to figure out how we could realize it on the Azure platform.\u201d Viju Chacko: Head of Digital Architecture, Air India Products Azure Azure AI Content Saf",
+          "[ai_trust] ld realize it on the Azure platform.\u201d Viju Chacko: Head of Digital Architecture, Air India Products Azure Azure AI Content Safety Azure AI Search Read the story \u201cWe\u2019re anticipating that our customers will",
+          "[ai_trust] lize it on the Azure platform.\u201d Viju Chacko: Head of Digital Architecture, Air India Products Azure Azure AI Content Safety Azure AI Search Read the story \u201cWe\u2019re anticipating that our customers will be abl",
+          "[ai_trust] tform.\u201d Viju Chacko: Head of Digital Architecture, Air India Products Azure Azure AI Content Safety Azure AI Search Read the story \u201cWe\u2019re anticipating that our customers will be able to capture more proble",
+          "[ai_trust] ipating that our customers will be able to capture more problems and will resolve them faster using Azure AI.\u201d Joe Bohman: Executive Vice President, Siemens Digital Industries Software Products Azure AI Az",
+          "[ai_trust] using Azure AI.\u201d Joe Bohman: Executive Vice President, Siemens Digital Industries Software Products Azure AI Azure Machine Learning Microsoft Teams Read the story \u201cWith OpenAI coming in, it was Microsoft w",
+          "[ai_trust] re AI.\u201d Joe Bohman: Executive Vice President, Siemens Digital Industries Software Products Azure AI Azure Machine Learning Microsoft Teams Read the story \u201cWith OpenAI coming in, it was Microsoft who advise",
+          "[ai_trust] l Industries Software Products Azure AI Azure Machine Learning Microsoft Teams Read the story \u201cWith OpenAI coming in, it was Microsoft who advised us on the technology.\u201d S\u00f8ren Friis: IT Director, Danske Sta",
+          "[ai_trust] d us on the technology.\u201d S\u00f8ren Friis: IT Director, Danske Statsbaner Products Microsoft 365 Copilot Azure Read the story Back to Hear from our customers section Begin your AI journey AI resources for busin",
+          "[terms_of_service] trade dress, copyright, trademark, patent, and other intellectual property and unfair competition laws in the United States and internationally. All rights not expressly granted to you in this TOU are r",
+          "[terms_of_service] ments of Microsoft websites are protected by trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound or image from any Mi",
+          "[terms_of_service] es that contain images, photographs, software or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of",
+          "[terms_of_service] or otherwise collect information about others, including e-mail addresses. Violate any applicable laws or regulations. Create a false identity for the purpose of misleading others. Use, download or othe",
+          "[terms_of_service] e, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service. Third party claims . You are solely responsible for responding to any third-party claims regarding your use of",
+          "[terms_of_service] es or outputs of the service. Third party claims . You are solely responsible for responding to any third-party claims regarding your use of the AI services in compliance with applicable laws (including, but not",
+          "[terms_of_service] ding to any third-party claims regarding your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output d",
+          "[terms_of_service] receive a response. See Notice and Procedure for Making Claims of Copyright Infringement . Links to Third Party Sites The links in this area will let you leave microsoft's site. the linked sites are not under th"
+        ],
+        "data_retention": [
+          "[ai_trust] ce with industry-relevant AI solutions. Learn more For education Use AI to personalize learning and keep students and their information safe. Learn more For IT Streamline operations, enhance security, and",
+          "[terms_of_service] ed States and internationally. All rights not expressly granted to you in this TOU are reserved and retained by Microsoft or its licensors, suppliers, publishers, rightsholders, or other content providers.",
+          "[terms_of_service] r AI service. Use of Your Content. As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service, for purposes of monitoring for and p"
+        ],
+        "model_training": [
+          "[privacy_policy] ort or delete personal data and more in the Privacy FAQs. Microsoft Corporate Social Responsibility Learn more about how Microsoft approaches building a more inclusive, equitable, sustainable, and trusted",
+          "[privacy_policy] n (GDPR). Read more Protecting the data of our commercial and public sector customers in the AI era Learn more about Microsoft\u2019s commitment to protecting the data of our commercial and public sector custom",
+          "[ai_trust] across your organization, wherever you are in your AI journey. Achieve new productivity levels and learn how to securely integrate AI for all your business needs. Watch video Get the 2025 AI Decision Brie",
+          "[ai_trust] seize every opportunity. Accelerate Boost productivity to achieve more, in work and in life Copilot Enhance Customize Copilot for your unique needs Copilot Studio Build Create and deploy your own AI solution",
+          "[ai_trust] Microsoft is committed to providing trustworthy AI\u2014with decades of research, customer feedback, and learnings informing the capabilities that deliver privacy, safety, and security. Learn more Secure and go",
+          "[ai_trust] omer feedback, and learnings informing the capabilities that deliver privacy, safety, and security. Learn more Secure and govern AI Explore how Microsoft helps you safeguard AI with comprehensive security",
+          "[ai_trust] Explore how Microsoft helps you safeguard AI with comprehensive security and governance solutions. Learn more Data protection and privacy Understand Microsoft\u2019s commitment to protecting and defending data",
+          "[ai_trust] protection and privacy Understand Microsoft\u2019s commitment to protecting and defending data privacy. Learn more Empowering responsible AI Discover how Microsoft is committed to responsibly developing and ad",
+          "[ai_trust] ring responsible AI Discover how Microsoft is committed to responsibly developing and advancing AI. Learn more AI news and insights Explore Microsoft\u2019s perspective and latest updates highlighting our commi",
+          "[ai_trust] ss use. Now with flexible pay-as-you-go access to agents. Learn more Leading responsible innovation Learn how Microsoft is helping organizations navigate and comply with the European Union AI Act while fos",
+          "[ai_trust] ies, and organizations throughout the year. Watch now Sustainable by design: zero water consumption Learn how Microsoft\u2019s new datacenter design optimizes AI workloads and consumes zero water for cooling. R",
+          "[ai_trust] nd opportunities of using generative AI and discover ways to implement it securely and responsibly. Learn more Make your ideas a reality\u2014faster than ever Accelerate app development and achieve faster busin",
+          "[ai_trust] the way you work\u2014like Copilot Pages, Copilot agents, and updates to Copilot in Microsoft 365 apps. Learn more Unlocking the future of innovation: The Microsoft AI Tour Join Microsoft at the AI Tour to exp",
+          "[ai_trust] The Microsoft AI Tour Join Microsoft at the AI Tour to explore the transformative potential of AI. Learn more Back to carousel navigation controls Discover what you can do with AI For organizations Work s",
+          "[ai_trust] th AI For organizations Work smarter, be more productive, and use AI to reshape business processes. Learn more For personal use Make your day a little easier with an AI companion by your side. Learn more F",
+          "[ai_trust] esses. Learn more For personal use Make your day a little easier with an AI companion by your side. Learn more For industry Empower your workforce with industry-relevant AI solutions. Learn more For educat",
+          "[ai_trust] n by your side. Learn more For industry Empower your workforce with industry-relevant AI solutions. Learn more For education Use AI to personalize learning and keep students and their information safe. Lea",
+          "[ai_trust] your workforce with industry-relevant AI solutions. Learn more For education Use AI to personalize learning and keep students and their information safe. Learn more For IT Streamline operations, enhance s",
+          "[ai_trust] arn more For education Use AI to personalize learning and keep students and their information safe. Learn more For IT Streamline operations, enhance security, and optimize performance with AI. Learn more F",
+          "[ai_trust] ize learning and keep students and their information safe. Learn more For IT Streamline operations, enhance security, and optimize performance with AI. Learn more For developers Build innovative apps with po",
+          "[ai_trust] safe. Learn more For IT Streamline operations, enhance security, and optimize performance with AI. Learn more For developers Build innovative apps with powerful AI tools. Learn more Hear from our customer",
+          "[ai_trust] timize performance with AI. Learn more For developers Build innovative apps with powerful AI tools. Learn more Hear from our customers See more customer stories Previous Slide Next Slide \u201cWe\u2019ve entered a w",
+          "[ai_trust] hman: Executive Vice President, Siemens Digital Industries Software Products Azure AI Azure Machine Learning Microsoft Teams Read the story \u201cWith OpenAI coming in, it was Microsoft who advised us on the te",
+          "[ai_trust] opt AI. See resources Build your AI skills Build the skills needed to accelerate AI implementation. Learn more Meet Copilot Get best practices and insights to jump-start your AI transformation with Microso",
+          "[terms_of_service] ata from the AI Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service. Use of Your Content. As part of providin",
+          "[terms_of_service] he AI Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service. Use of Your Content. As part of providing the AI ser"
+        ],
+        "model_sharing": [],
+        "contractual": [
+          "[terms_of_service] e your inputs to the service as well as output from the service, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service. Third party claims . You are solely responsib"
+        ]
+      }
+    }
+  },
+  "Adobe": {
+    "url": "https://www.adobe.com",
+    "doc_urls": {
+      "privacy_policy": "https://www.adobe.com/privacy",
+      "ai_trust": null,
+      "terms_of_service": null,
+      "data_processing": null
+    },
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": null,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": false,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  },
+  "Salesforce": {
+    "url": "https://www.salesforce.com",
+    "doc_urls": {
+      "privacy_policy": "https://www.salesforce.com/?bc=HL/privacy",
+      "ai_trust": "https://www.salesforce.com/?bc=HL/ai",
+      "terms_of_service": "https://www.salesforce.com/?bc=HL/terms",
+      "data_processing": "https://www.salesforce.com/?bc=HL/data-processing"
+    },
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": false,
+      "third_party_providers": [
+        "Google"
+      ],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [
+        "No explicit contractual protections mentioned for third-party AI providers",
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [
+          "[privacy_policy] Salesforce and Google bring Gemini to Agentforce, expanding partnership. Get the news Try for free Watch demos Explore Agentforce Calculate your ROI Try for free Email",
+          "[privacy_policy] acturing Integrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simpl",
+          "[privacy_policy] s right where you work. 3. Bring in your data. Import spreadsheets and connect to data sources like Google. In-app guides make sure you have clean data imported in minutes. Browse all apps Trailhead Help ev",
+          "[privacy_policy] s. Explore events AppExchange Get the most out of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community",
+          "[privacy_policy] of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community Ennube saves time with AI-generated emails. Re",
+          "[ai_trust] Salesforce and Google bring Gemini to Agentforce, expanding partnership. Get the news Try for free Watch demos Explore Agentforce Calculate your ROI Try for free Email",
+          "[ai_trust] acturing Integrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simpl",
+          "[ai_trust] s right where you work. 3. Bring in your data. Import spreadsheets and connect to data sources like Google. In-app guides make sure you have clean data imported in minutes. Browse all apps Trailhead Help ev",
+          "[ai_trust] s. Explore events AppExchange Get the most out of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community",
+          "[ai_trust] of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community Ennube saves time with AI-generated emails. Re",
+          "[terms_of_service] Salesforce and Google bring Gemini to Agentforce, expanding partnership. Get the news Try for free Watch demos Explore Agentforce Calculate your ROI Try for free Email",
+          "[terms_of_service] acturing Integrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simpl",
+          "[terms_of_service] s right where you work. 3. Bring in your data. Import spreadsheets and connect to data sources like Google. In-app guides make sure you have clean data imported in minutes. Browse all apps Trailhead Help ev",
+          "[terms_of_service] s. Explore events AppExchange Get the most out of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community",
+          "[terms_of_service] of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community Ennube saves time with AI-generated emails. Re",
+          "[data_processing] Salesforce and Google bring Gemini to Agentforce, expanding partnership. Get the news Try for free Watch demos Explore Agentforce Calculate your ROI Try for free Email",
+          "[data_processing] acturing Integrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simpl",
+          "[data_processing] s right where you work. 3. Bring in your data. Import spreadsheets and connect to data sources like Google. In-app guides make sure you have clean data imported in minutes. Browse all apps Trailhead Help ev",
+          "[data_processing] s. Explore events AppExchange Get the most out of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community",
+          "[data_processing] of Salesforce with partner apps and experts. Explore partners Community Connect with our customers, partners, and product experts. Explore Trailblazer Community Ennube saves time with AI-generated emails. Re"
+        ],
+        "data_retention": [],
+        "model_training": [
+          "[privacy_policy] and Services See all pricing Financial Services Unlock the most valuable currency: customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare",
+          "[privacy_policy] customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare & Life Sciences Build stronger patient and member relationships on a connected plat",
+          "[privacy_policy] Healthcare & Life Sciences Build stronger patient and member relationships on a connected platform. Learn more Construction & Real Estate Streamline processes and achieve operational excellence to drive pr",
+          "[privacy_policy] l Estate Streamline processes and achieve operational excellence to drive profitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution succ",
+          "[privacy_policy] fitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and reta",
+          "[privacy_policy] Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and retain the right talent, and build a",
+          "[privacy_policy] vices Increase client trust, recruit and retain the right talent, and build a vibrant work culture. Learn more Technology Automate workflows, unify and integrate data, and thrive in a new era of tech, powe",
+          "[privacy_policy] tomate workflows, unify and integrate data, and thrive in a new era of tech, powered by trusted AI. Learn more Manufacturing Integrate all your data across a unified value chain to better serve customers a",
+          "[privacy_policy] ntegrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simply enter",
+          "[privacy_policy] rted in minutes. Browse all apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExch",
+          "[privacy_policy] apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExchange Get the most out of Sa",
+          "[privacy_policy] anked #1 CRM provider for 11th straight year in the IDC 2024 Worldwide Semiannual Software Tracker. Learn more Salesforce receives Customers\u2019 Choice distinction for Sales Force Automation on Gartner Peer I",
+          "[ai_trust] and Services See all pricing Financial Services Unlock the most valuable currency: customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare",
+          "[ai_trust] customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare & Life Sciences Build stronger patient and member relationships on a connected plat",
+          "[ai_trust] Healthcare & Life Sciences Build stronger patient and member relationships on a connected platform. Learn more Construction & Real Estate Streamline processes and achieve operational excellence to drive pr",
+          "[ai_trust] l Estate Streamline processes and achieve operational excellence to drive profitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution succ",
+          "[ai_trust] fitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and reta",
+          "[ai_trust] Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and retain the right talent, and build a",
+          "[ai_trust] vices Increase client trust, recruit and retain the right talent, and build a vibrant work culture. Learn more Technology Automate workflows, unify and integrate data, and thrive in a new era of tech, powe",
+          "[ai_trust] tomate workflows, unify and integrate data, and thrive in a new era of tech, powered by trusted AI. Learn more Manufacturing Integrate all your data across a unified value chain to better serve customers a",
+          "[ai_trust] ntegrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simply enter",
+          "[ai_trust] rted in minutes. Browse all apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExch",
+          "[ai_trust] apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExchange Get the most out of Sa",
+          "[ai_trust] anked #1 CRM provider for 11th straight year in the IDC 2024 Worldwide Semiannual Software Tracker. Learn more Salesforce receives Customers\u2019 Choice distinction for Sales Force Automation on Gartner Peer I",
+          "[terms_of_service] and Services See all pricing Financial Services Unlock the most valuable currency: customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare",
+          "[terms_of_service] customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare & Life Sciences Build stronger patient and member relationships on a connected plat",
+          "[terms_of_service] Healthcare & Life Sciences Build stronger patient and member relationships on a connected platform. Learn more Construction & Real Estate Streamline processes and achieve operational excellence to drive pr",
+          "[terms_of_service] l Estate Streamline processes and achieve operational excellence to drive profitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution succ",
+          "[terms_of_service] fitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and reta",
+          "[terms_of_service] Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and retain the right talent, and build a",
+          "[terms_of_service] vices Increase client trust, recruit and retain the right talent, and build a vibrant work culture. Learn more Technology Automate workflows, unify and integrate data, and thrive in a new era of tech, powe",
+          "[terms_of_service] tomate workflows, unify and integrate data, and thrive in a new era of tech, powered by trusted AI. Learn more Manufacturing Integrate all your data across a unified value chain to better serve customers a",
+          "[terms_of_service] ntegrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simply enter",
+          "[terms_of_service] rted in minutes. Browse all apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExch",
+          "[terms_of_service] apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExchange Get the most out of Sa",
+          "[terms_of_service] anked #1 CRM provider for 11th straight year in the IDC 2024 Worldwide Semiannual Software Tracker. Learn more Salesforce receives Customers\u2019 Choice distinction for Sales Force Automation on Gartner Peer I",
+          "[data_processing] and Services See all pricing Financial Services Unlock the most valuable currency: customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare",
+          "[data_processing] customer trust. Learn more Retail Acquire profitable customers faster with unified, real-time data. Learn more Healthcare & Life Sciences Build stronger patient and member relationships on a connected plat",
+          "[data_processing] Healthcare & Life Sciences Build stronger patient and member relationships on a connected platform. Learn more Construction & Real Estate Streamline processes and achieve operational excellence to drive pr",
+          "[data_processing] l Estate Streamline processes and achieve operational excellence to drive profitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution succ",
+          "[data_processing] fitability and growth. Learn more Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and reta",
+          "[data_processing] Education Elevate the education experience with the #1 AI CRM for learner and institution success. Learn more Professional Services Increase client trust, recruit and retain the right talent, and build a",
+          "[data_processing] vices Increase client trust, recruit and retain the right talent, and build a vibrant work culture. Learn more Technology Automate workflows, unify and integrate data, and thrive in a new era of tech, powe",
+          "[data_processing] tomate workflows, unify and integrate data, and thrive in a new era of tech, powered by trusted AI. Learn more Manufacturing Integrate all your data across a unified value chain to better serve customers a",
+          "[data_processing] ntegrate all your data across a unified value chain to better serve customers and channel partners. Learn more See all industries Try for free 1. Set up and start. There\u2019s nothing to install. Simply enter",
+          "[data_processing] rted in minutes. Browse all apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExch",
+          "[data_processing] apps Trailhead Help every employee get the Salesforce skills they need. Learn for free Salesforce+ Learn more about products at live and on-demand events. Explore events AppExchange Get the most out of Sa",
+          "[data_processing] anked #1 CRM provider for 11th straight year in the IDC 2024 Worldwide Semiannual Software Tracker. Learn more Salesforce receives Customers\u2019 Choice distinction for Sales Force Automation on Gartner Peer I"
+        ],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  }
+}

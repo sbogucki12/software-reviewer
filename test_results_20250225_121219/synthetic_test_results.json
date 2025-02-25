@@ -1,0 +1,387 @@
+{
+  "opt_out_enterprise": {
+    "sample": "\n    Our AI features can be disabled at the enterprise level. Administrators can access the Admin \n ...",
+    "analysis": {
+      "opt_out_available": true,
+      "enterprise_opt_out": true,
+      "native_ai": null,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": false,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [],
+      "_evidence": {
+        "opt_out": [
+          "[synthetic] Our AI features can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilit",
+          "[synthetic] atures can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out.",
+          "[synthetic] e Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out."
+        ],
+        "enterprise": [
+          "[synthetic] Our AI features can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilit",
+          "[synthetic] atures can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out.",
+          "[synthetic] e Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out."
+        ],
+        "ai_native": [],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  },
+  "opt_out_individual": {
+    "sample": "\n    Users can disable AI features in their account settings. Go to Settings > Privacy > \n    AI Fea...",
+    "analysis": {
+      "opt_out_available": true,
+      "enterprise_opt_out": false,
+      "native_ai": null,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": false,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [],
+      "_evidence": {
+        "opt_out": [
+          "[synthetic] Users can disable AI features in their account settings. Go to Settings > Privacy > \n    AI Features and toggle the s",
+          "[synthetic] count settings. Go to Settings > Privacy > \n    AI Features and toggle the switch to off. This will deactivate all AI-powered features."
+        ],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  },
+  "native_ai": {
+    "sample": "\n    We use our proprietary machine learning models developed in-house by our data science team.\n   ...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": true,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [
+          "[synthetic] We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms a",
+          "[synthetic] We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and optimized for our specific u",
+          "[synthetic] We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and optimized for our specific use cases."
+        ],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [
+          "[synthetic] We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and",
+          "[synthetic] chine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and optimized for our specific use cases."
+        ],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  },
+  "third_party_ai": {
+    "sample": "\n    Our product integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    m...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": false,
+      "third_party_providers": [
+        "OpenAI",
+        "Google"
+      ],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [
+        "No explicit contractual protections mentioned for third-party AI providers",
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [
+          "[synthetic] Our product integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learni",
+          "[synthetic] integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learning APIs for specific functionalities."
+        ],
+        "data_retention": [],
+        "model_training": [
+          "[synthetic] OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learning APIs for specific functionalities."
+        ],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  },
+  "data_retention": {
+    "sample": "\n    We retain user data for a period of 30 days to improve our services and train our models.\n    A...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": true,
+      "third_party_providers": [],
+      "data_retention": true,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [
+          "[synthetic] We retain user data for a period of 30 days to improve our services and train our models.\n    After this period, the data is anonymized but may be kept for analytical purposes."
+        ],
+        "third_party": [],
+        "data_retention": [
+          "[synthetic] We retain user data for a period of 30 days to improve our services and train our models.\n    After this peri"
+        ],
+        "model_training": [
+          "[synthetic] We retain user data for a period of 30 days to improve our services and train our models.\n    After this period, the data is anonymized but may be kept fo",
+          "[synthetic] We retain user data for a period of 30 days to improve our services and train our models.\n    After this period, the data is anonymized but may be kept for analytical purposes."
+        ],
+        "model_sharing": [],
+        "contractual": []
+      }
+    }
+  },
+  "model_sharing_yes": {
+    "sample": "\n    Our AI models are trained on aggregated user data and are shared across our customer base\n    t...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": null,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": true,
+      "contractual_protections": false,
+      "concerns": [
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [
+          "[synthetic] Our AI models are trained on aggregated user data and are shared across our customer base\n    to provide improved recommend",
+          "[synthetic] I models are trained on aggregated user data and are shared across our customer base\n    to provide improved recommendations and features for all users of our platform."
+        ],
+        "model_sharing": [
+          "[synthetic] Our AI models are trained on aggregated user data and are shared across our customer base\n    to provide improved recommendations and features for all users of our"
+        ],
+        "contractual": []
+      }
+    }
+  },
+  "model_sharing_no": {
+    "sample": "\n    While we train models on customer data, these models are specific to each customer's tenant\n   ...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": null,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [
+        "Unclear policy on model sharing",
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [
+          "[synthetic] While we train models on customer data, these models are specific to each customer's tenant\n    and are never shar"
+        ],
+        "model_sharing": [
+          "[synthetic] rain models on customer data, these models are specific to each customer's tenant\n    and are never shared with other customers or organizations."
+        ],
+        "contractual": []
+      }
+    }
+  },
+  "contractual_protection": {
+    "sample": "\n    Our contracts with third-party AI providers explicitly prohibit them from using your data\n    t...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": null,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": true,
+      "contractual_protections": false,
+      "concerns": [
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [
+          "[synthetic] Our contracts with third-party AI providers explicitly prohibit them from using your data\n    to train their general models or sha"
+        ],
+        "data_retention": [],
+        "model_training": [
+          "[synthetic] Our contracts with third-party AI providers explicitly prohibit them from using your data\n    to train their general models or share any insights derived from your data with others."
+        ],
+        "model_sharing": [
+          "[synthetic] rty AI providers explicitly prohibit them from using your data\n    to train their general models or share any insights derived from your data with others."
+        ],
+        "contractual": []
+      }
+    }
+  },
+  "scenario_enterprise_opt_out_native": {
+    "sample": "\n    Our AI features can be disabled at the enterprise level. Administrators can access the Admin \n ...",
+    "analysis": {
+      "opt_out_available": true,
+      "enterprise_opt_out": true,
+      "native_ai": true,
+      "third_party_providers": [],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": false,
+      "contractual_protections": false,
+      "concerns": [
+        "Unclear policy on model sharing",
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [
+          "[scenario] Our AI features can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilit",
+          "[scenario] atures can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out.\n    \n\n\n    We use our p",
+          "[scenario] e Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out.\n    \n\n\n    We use our proprietary machine learning models developed in-house by our data science t"
+        ],
+        "enterprise": [
+          "[scenario] Our AI features can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilit",
+          "[scenario] atures can be disabled at the enterprise level. Administrators can access the Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out.\n    \n\n\n    We use our p",
+          "[scenario] e Admin \n    Console to turn off AI capabilities across their organization. Individual users cannot opt out.\n    \n\n\n    We use our proprietary machine learning models developed in-house by our data science t"
+        ],
+        "ai_native": [
+          "[scenario] f AI capabilities across their organization. Individual users cannot opt out.\n    \n\n\n    We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms a",
+          "[scenario] ndividual users cannot opt out.\n    \n\n\n    We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and optimized for our specific u",
+          "[scenario] We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and optimized for our specific use cases.\n    \n\n\n    While we train model"
+        ],
+        "third_party": [],
+        "data_retention": [],
+        "model_training": [
+          "[scenario] ross their organization. Individual users cannot opt out.\n    \n\n\n    We use our proprietary machine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and",
+          "[scenario] chine learning models developed in-house by our data science team.\n    Our native AI algorithms are trained and optimized for our specific use cases.\n    \n\n\n    While we train models on customer data, thes",
+          "[scenario] Our native AI algorithms are trained and optimized for our specific use cases.\n    \n\n\n    While we train models on customer data, these models are specific to each customer's tenant\n    and are never shar"
+        ],
+        "model_sharing": [
+          "[scenario] rain models on customer data, these models are specific to each customer's tenant\n    and are never shared with other customers or organizations."
+        ],
+        "contractual": []
+      }
+    }
+  },
+  "scenario_third_party_with_protection": {
+    "sample": "\n    Users can disable AI features in their account settings. Go to Settings > Privacy > \n    AI Fea...",
+    "analysis": {
+      "opt_out_available": true,
+      "enterprise_opt_out": false,
+      "native_ai": false,
+      "third_party_providers": [
+        "OpenAI",
+        "Google"
+      ],
+      "data_retention": false,
+      "model_training": true,
+      "model_sharing": true,
+      "contractual_protections": true,
+      "concerns": [
+        "Model training mentioned without clear data retention policy"
+      ],
+      "_evidence": {
+        "opt_out": [
+          "[scenario] Users can disable AI features in their account settings. Go to Settings > Privacy > \n    AI Features and toggle the s",
+          "[scenario] count settings. Go to Settings > Privacy > \n    AI Features and toggle the switch to off. This will deactivate all AI-powered features.\n    \n\n\n    Our product integrates with OpenAI's GPT models to provide AI c"
+        ],
+        "enterprise": [],
+        "ai_native": [],
+        "third_party": [
+          "[scenario] switch to off. This will deactivate all AI-powered features.\n    \n\n\n    Our product integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learni",
+          "[scenario] integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    Our contracts with third-party AI",
+          "[scenario] utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    Our contracts with third-party AI providers explicitly prohibit them from using your data\n    to train their general models or sha"
+        ],
+        "data_retention": [],
+        "model_training": [
+          "[scenario] OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    Our contracts with third-party AI providers explic",
+          "[scenario] Our contracts with third-party AI providers explicitly prohibit them from using your data\n    to train their general models or share any insights derived from your data with others."
+        ],
+        "model_sharing": [
+          "[scenario] rty AI providers explicitly prohibit them from using your data\n    to train their general models or share any insights derived from your data with others."
+        ],
+        "contractual": [
+          "[scenario] es\n    may also utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    Our contracts with third-party AI providers explicitly prohibit them from using your data\n    to train their gen",
+          "[scenario] PIs for specific functionalities.\n    \n\n\n    Our contracts with third-party AI providers explicitly prohibit them from using your data\n    to train their general models or share any insights derived from your"
+        ]
+      }
+    }
+  },
+  "scenario_high_risk_scenario": {
+    "sample": "\n    Our product integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    m...",
+    "analysis": {
+      "opt_out_available": false,
+      "enterprise_opt_out": false,
+      "native_ai": false,
+      "third_party_providers": [
+        "OpenAI",
+        "Google"
+      ],
+      "data_retention": true,
+      "model_training": true,
+      "model_sharing": true,
+      "contractual_protections": false,
+      "concerns": [
+        "No explicit contractual protections mentioned for third-party AI providers"
+      ],
+      "_evidence": {
+        "opt_out": [],
+        "enterprise": [],
+        "ai_native": [
+          "[scenario] onalities.\n    \n\n\n    We retain user data for a period of 30 days to improve our services and train our models.\n    After this period, the data is anonymized but may be kept for analytical purposes."
+        ],
+        "third_party": [
+          "[scenario] Our product integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learni",
+          "[scenario] integrates with OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    We retain user data for a period o"
+        ],
+        "data_retention": [
+          "[scenario] res\n    may also utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    We retain user data for a period of 30 days to improve our services and train our models.\n    After this peri"
+        ],
+        "model_training": [
+          "[scenario] OpenAI's GPT models to provide AI capabilities. Some features\n    may also utilize Google's machine learning APIs for specific functionalities.\n    \n\n\n    We retain user data for a period of 30 days to imp",
+          "[scenario] arning APIs for specific functionalities.\n    \n\n\n    We retain user data for a period of 30 days to improve our services and train our models.\n    After this period, the data is anonymized but may be kept fo",
+          "[scenario] functionalities.\n    \n\n\n    We retain user data for a period of 30 days to improve our services and train our models.\n    After this period, the data is anonymized but may be kept for analytical purposes.",
+          "[scenario] eriod, the data is anonymized but may be kept for analytical purposes.\n    \n\n\n    Our AI models are trained on aggregated user data and are shared across our customer base\n    to provide improved recommend",
+          "[scenario] I models are trained on aggregated user data and are shared across our customer base\n    to provide improved recommendations and features for all users of our platform."
+        ],
+        "model_sharing": [
+          "[scenario] kept for analytical purposes.\n    \n\n\n    Our AI models are trained on aggregated user data and are shared across our customer base\n    to provide improved recommendations and features for all users of our"
+        ],
+        "contractual": []
+      }
+    }
+  }
+}
